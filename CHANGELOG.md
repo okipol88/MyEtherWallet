@@ -1,3 +1,10 @@
+### fix
+
+* * add in catch for json parse errors in settings [#3451](https://github.com/MyEtherWallet/MyEtherWallet/pull/3451)
+* * fix ens name obj is null on split [#3453](https://github.com/MyEtherWallet/MyEtherWallet/pull/3453)
+* * fix use toast instead for handling connection not open [#3454](https://github.com/MyEtherWallet/MyEtherWallet/pull/3454)
+* * add svg logo [#3455](https://github.com/MyEtherWallet/MyEtherWallet/pull/3455)
+
 ### Release v6.1.0
 
 ### devop
